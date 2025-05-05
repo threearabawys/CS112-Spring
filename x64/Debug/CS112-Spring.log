@@ -1,0 +1,4 @@
+﻿  MyProgram.c
+C:\Users\melmatary\source\repos\CS112-Spring\CS112-Spring\MyProgram.c(18,45): warning C4113: 'int (__cdecl *)(Student,Student)' differs in parameter lists from '_CoreCrtNonSecureSearchSortCompareFunction'
+C:\Users\melmatary\source\repos\CS112-Spring\CS112-Spring\MyProgram.c(37,20): warning C4013: 'tolower' undefined; assuming extern returning int
+  CS112-Spring.vcxproj -> C:\Users\melmatary\source\repos\CS112-Spring\x64\Debug\CS112-Spring.exe
