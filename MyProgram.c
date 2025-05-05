@@ -10,7 +10,7 @@ struct Student {
 	char name[50];
 };
 int main() {
-	struct Student s1 = { "david" };
+	struct Student s1 = { "David" };
 	struct Student s2 = { "aaron" };
 	struct Student s3 = { "belle" };
 	struct Student s4 = { "Zavid" };
