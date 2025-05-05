@@ -15,7 +15,7 @@ int main() {
 	struct Student s3 = { "belle" };
 	struct Student s4 = { "Zavid" };
 	struct Student students[] = {s1, s2, s3, s4};
-	qsort(students, 4, sizeof(struct Student), compareDes);
+	qsort(students, 4, sizeof(struct Student), compareAsc);
 	return 0;
 }
 
